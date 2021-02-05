@@ -1,3 +1,4 @@
+//for last element always -1
 #include<stdio.h>
 #define Max 100
 main()
