@@ -1,3 +1,5 @@
+/*Given an integer array, find the length of the longest subsequence formed by the consecutive integers. 
+	The subsequence should contain all distinct values, and the character set should be consecutive, irrespective of its order.*/
 #include<stdio.h>
 #define Max 100
 
