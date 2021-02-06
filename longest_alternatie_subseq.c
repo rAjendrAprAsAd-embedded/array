@@ -1,3 +1,5 @@
+//allternative numbers sign +ve -ve +ve like that  
+
 #include<stdio.h>
 #define Max 100
 
