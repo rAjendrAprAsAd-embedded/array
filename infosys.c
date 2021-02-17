@@ -1,3 +1,5 @@
+//same like array right shift
+
 /* input array n1 n2
 rotate array n1 times and n2 times count  each rotation 
 untill match with original array*/
